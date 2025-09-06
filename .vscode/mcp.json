@@ -1,3 +1,4 @@
+// Configuração MCP para integração do GitHub Copilot
 {
   "servers": {
     "github": {
